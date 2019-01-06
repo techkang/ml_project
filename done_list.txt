@@ -1,0 +1,5 @@
+1. Convert sigmoid function to sigmoid class in network2.py
+2. Add ReLU class
+3. Use ReLU to activate function.
+4. Load dataset.
+5. Convert data to gray image to feed data in MLP.
